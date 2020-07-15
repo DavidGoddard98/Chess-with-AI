@@ -7,6 +7,6 @@ The game runs in terminal and can be launched by compiling and running Chess.jav
 
 <br>
 <div align = "center">
-  <img src="images/ChessCap.PNG" width="750"/>
+  <img src="ChessCap.PNG" width="750"/>
 </div>
 <br>
